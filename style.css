@@ -192,7 +192,9 @@ header>h1 {
     height: 30px;
     border: 2px solid #CCCCCC;
     border-radius: 50%;
-
+}
+.social-links li a:hover {
+    border-color: #FFCC00;
 }
 
 h2 {
